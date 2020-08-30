@@ -1,0 +1,6 @@
+Hey 
+
+ The theme of the program is to suggest random movies
+from the category we have selected.
+However, this program is dynamic because it allows us to
+update the list of movies whice we have already seen.
